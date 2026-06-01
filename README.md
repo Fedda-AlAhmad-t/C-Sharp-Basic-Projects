@@ -24,3 +24,9 @@ ASP.NET MVC
 Entity Framework
 
 SQL Server
+
+## 🌟 What’s Inside
+- Hands-on projects showcasing OOP principles (inheritance, polymorphism, interfaces)
+- ASP.NET MVC applications with controllers, views, and SQL Server integration
+- CRUD operations, form validation, and business logic examples
+- Featured project: Car Insurance Quote App
